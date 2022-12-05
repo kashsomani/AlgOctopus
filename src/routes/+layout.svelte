@@ -5,9 +5,7 @@
 </script>
 
 <div class="app">
-  <div id="hi">hjfgdhjksadfv</div>
-  dfiajkhfdsjklabgdfshjkdfbghj
-  <Header />
+  <!-- <Header />
 
   <main>
     <slot />
@@ -17,13 +15,13 @@
     <p>
       visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit
     </p>
-  </footer>
+  </footer> -->
+  <div class="grid grid-cols-1 place-items-center h-screen text-black">
+    The Site is under development :)
+  </div>
 </div>
 
 <style lang="postcss">
-  #hi {
-    @apply bg-red-600;
-  }
   .app {
     display: flex;
     flex-direction: column;
