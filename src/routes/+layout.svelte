@@ -5,6 +5,7 @@
 </script>
 
 <div class="app">
+  <div id="hi">hjfgdhjksadfv</div>
   <Header />
 
   <main>
@@ -18,7 +19,10 @@
   </footer>
 </div>
 
-<style>
+<style lang="postcss">
+  #hi {
+    @apply bg-red-600;
+  }
   .app {
     display: flex;
     flex-direction: column;
