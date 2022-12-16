@@ -1,5 +1,6 @@
 <script>
   import Navbar from "./Navbar.svelte"
+  import Footer from "./Footer.svelte"
   import "./styles.css"
   import "../tailwind.css"
 </script>
@@ -10,6 +11,8 @@
   <main>
     <slot />
   </main>
+
+  <Footer />
 </div>
 
 <style lang="postcss">
