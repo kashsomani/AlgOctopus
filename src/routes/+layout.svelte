@@ -1,11 +1,11 @@
 <script>
-  import Header from "./Header.svelte"
+  import Navbar from "./Navbar.svelte"
   import "./styles.css"
   import "../tailwind.css"
 </script>
 
 <div class="app">
-  <Header />
+  <Navbar />
 
   <main>
     <slot />
