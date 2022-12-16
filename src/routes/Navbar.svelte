@@ -18,7 +18,7 @@
       </label>
       <ul
         tabindex="0"
-        class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary rounded-box w-52 text-black"
+        class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-secondary rounded-box w-52 text-black"
       >
         <li><a href="/">Home</a></li>
         <li><a href="/">About</a></li>
@@ -39,8 +39,8 @@
 
 <style>
   .navbar {
-    border-bottom: 4px solid #cb6ce6;
-    box-shadow: 0 2px 7px 4px #cc6ce6a3;
+    border-bottom: 4px solid #5ce1e6;
+    box-shadow: 0 2px 7px 4px #5ce1e6;
   }
   #navbar-title {
     color: #cb6ce6;

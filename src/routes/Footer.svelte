@@ -59,8 +59,8 @@
 
 <style>
   #footer {
-    border-top: 4px solid #cb6ce6;
-    box-shadow: 0 2px 7px 4px #cc6ce6a3;
+    border-top: 4px solid #5ce1e6;
+    box-shadow: 0 2px 7px 4px #5ce1e6;
     color: #cb6ce6;
   }
 </style>
