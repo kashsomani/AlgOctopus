@@ -5,7 +5,16 @@ module.exports = {
     extend: {},
   },
   daisyui: {
-    themes: ["night"],
+    themes: [
+      {
+        mytheme: {
+          primary: "#CB6CE6",
+          secondary: "#5CE1E6",
+          accent: "#E5D0CC",
+          "base-100": "#172121",
+        },
+      },
+    ],
   },
   plugins: [require("@tailwindcss/typography"), require("daisyui")],
 }
