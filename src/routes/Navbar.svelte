@@ -31,7 +31,7 @@
   </div>
   <div class="navbar-center">
     <a href="/" class="btn btn-ghost text-xl text-primary" id="navbar-title"
-      >ALGOCTOPUS</a
+      ><img src="algoctopus.png" alt="logo" /></a
     >
   </div>
   <div class="navbar-end" />
@@ -41,8 +41,5 @@
   .navbar {
     border-bottom: 4px solid #5ce1e6;
     box-shadow: 0 2px 7px 4px #5ce1e6;
-  }
-  #navbar-title {
-    color: #cb6ce6;
   }
 </style>

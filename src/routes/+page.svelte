@@ -6,9 +6,6 @@
   <title>Home</title>
   <meta name="description" content="Svelte demo app" />
 </svelte:head>
-<div class="container">
-  <Card />
-</div>
 
 <style lang="postcss">
   .container {
