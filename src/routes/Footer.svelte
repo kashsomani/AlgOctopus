@@ -1,5 +1,5 @@
 <footer
-  class="footer items-center p-4 bg-neutral text-neutral-content"
+  class="footer items-center p-4 bg-base-100 text-neutral-content"
   id="footer"
 >
   <div class="items-center grid-flow-col">
