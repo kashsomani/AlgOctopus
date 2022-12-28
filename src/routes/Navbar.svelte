@@ -1,4 +1,4 @@
-<div class="navbar border-nav">
+<div class="navbar border-nav ">
   <div class="navbar-start">
     <div class="dropdown">
       <label tabindex="0" class="btn btn-ghost btn-circle">
@@ -46,6 +46,7 @@
 
 <style>
   .navbar {
+    min-width: screen;
     border-bottom: 4px solid #5ce1e6;
     box-shadow: 0 2px 7px 4px #5ce1e6;
   }

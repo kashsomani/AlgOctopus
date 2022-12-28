@@ -1,5 +1,11 @@
 <div class="wrap">
-  <button class="button">Buy An AlgOctopus</button>
+  <button
+    class="button"
+    on:click={() =>
+      (location.href =
+        "https://www.nftexplorer.app/sellers/algoctopus")}
+    >Buy An AlgOctopus</button
+  >
 </div>
 
 <style>
