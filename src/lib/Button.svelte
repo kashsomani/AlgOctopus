@@ -32,7 +32,7 @@
     );
     border: none;
     border-radius: 1000px;
-    box-shadow: 8px 8px 16px var(--blue);
+    box-shadow: 4px 8px 16px var(--blue);
     transition: all 0.3s ease-in-out 0s;
     cursor: pointer;
     outline: none;
@@ -63,7 +63,7 @@
       var(--pink) 0%,
       var(--pink) 100%
     );
-    box-shadow: 8px 8px 16px var(--pink);
+    box-shadow: 4px 8px 16px var(--pink);
     transform: translateY(-6px);
   }
 
