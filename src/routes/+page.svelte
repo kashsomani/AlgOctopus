@@ -1,11 +1,14 @@
 <script>
-  import Card from "./Card.svelte"
+  import Hero from "./Hero.svelte"
 </script>
 
 <svelte:head>
   <title>Home</title>
   <meta name="description" content="Svelte demo app" />
 </svelte:head>
+<div>
+  <Hero />
+</div>
 
 <style lang="postcss">
   .container {
