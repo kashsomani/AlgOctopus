@@ -17,10 +17,9 @@
   }
 
   .button {
-    min-width: 300px;
-    min-height: 60px;
-    font-family: "Nunito", sans-serif;
-    font-size: 22px;
+    min-width: 200px;
+    min-height: 40px;
+    font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 1.3px;
     font-weight: 700;
@@ -33,7 +32,7 @@
     );
     border: none;
     border-radius: 1000px;
-    box-shadow: 12px 12px 24px var(--blue);
+    box-shadow: 8px 8px 16px var(--blue);
     transition: all 0.3s ease-in-out 0s;
     cursor: pointer;
     outline: none;
@@ -44,9 +43,9 @@
   button::before {
     content: "";
     border-radius: 1000px;
-    min-width: calc(300px + 12px);
-    min-height: calc(60px + 12px);
-    box-shadow: 0 0 60px rgba(0, 255, 203, 0.64);
+    min-width: calc(200px + 12px);
+    min-height: calc(40px + 12px);
+    box-shadow: 0 0 40px rgba(0, 255, 203, 0.64);
     border: 2px solid rgba(203, 108, 230, 0.5);
     position: absolute;
     top: 50%;
@@ -64,7 +63,7 @@
       var(--pink) 0%,
       var(--pink) 100%
     );
-    box-shadow: 12px 12px 24px var(--pink);
+    box-shadow: 8px 8px 16px var(--pink);
     transform: translateY(-6px);
   }
 
@@ -100,8 +99,8 @@
       opacity: 1;
     }
     100% {
-      width: 300px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
       opacity: 0;
     }
   }
