@@ -30,8 +30,15 @@
     </div>
   </div>
   <div class="navbar-center">
-    <a href="/" class="btn btn-ghost text-xl text-primary" id="navbar-title"
-      ><img src="algoctopus.png" alt="logo" /></a
+    <a
+      href="/"
+      class="btn btn-ghost text-xl text-primary"
+      id="navbar-title"
+      ><img
+        src="algoctopus.png"
+        alt="logo"
+        class="w-44"
+      /></a
     >
   </div>
   <div class="navbar-end" />
