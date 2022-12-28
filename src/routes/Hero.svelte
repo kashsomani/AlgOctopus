@@ -2,7 +2,7 @@
   import Button from "$lib/Button.svelte"
 </script>
 
-<div class="hero min-h-screen bg-base-100">
+<div class="hero h-96 bg-base-100">
   <div class="hero-content text-center">
     <div class="max-w-md">
       <h1 class="text-5xl font-bold text-primary">
