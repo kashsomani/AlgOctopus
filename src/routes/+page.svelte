@@ -1,5 +1,6 @@
 <script>
   import Hero from "./Hero.svelte"
+  import Blop from "./Blop.svelte"
 </script>
 
 <svelte:head>
@@ -8,6 +9,7 @@
 </svelte:head>
 <div>
   <Hero />
+  <Blop />
 </div>
 
 <style lang="postcss">

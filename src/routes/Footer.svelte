@@ -1,5 +1,5 @@
 <footer
-  class="footer items-center p-4 bg-base-100 text-neutral-content"
+  class="footer items-center p-4 mt-2 bg-base-100 text-neutral-content"
   id="footer"
 >
   <div class="items-center grid-flow-col">
@@ -17,7 +17,9 @@
     >
     <p>Copyright © 2022 - All right reserved</p>
   </div>
-  <div class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
+  <div
+    class="grid-flow-col gap-4 md:place-self-center md:justify-self-end"
+  >
     <a
       ><svg
         xmlns="http://www.w3.org/2000/svg"

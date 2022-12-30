@@ -1,0 +1,25 @@
+<div class="flex flex-col w-full">
+  <div
+    class="grid h-20 card bg-base-300 rounded-box place-items-center"
+  >
+    content
+  </div>
+  <div class="divider" />
+  <div
+    class="grid h-20 card bg-base-300 rounded-box place-items-center"
+  >
+    content
+  </div>
+  <div class="divider" />
+  <div
+    class="grid h-20 card bg-base-300 rounded-box place-items-center"
+  >
+    content
+  </div>
+  <div class="divider" />
+  <div
+    class="grid h-20 card bg-base-300 rounded-box place-items-center"
+  >
+    content
+  </div>
+</div>
