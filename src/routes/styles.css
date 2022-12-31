@@ -1,6 +1,10 @@
 body {
   overflow-x: hidden;
 }
+:root {
+  --blue: #5ce1e6;
+  --pink: #cb6ce6;
+}
 button {
   outline: 0;
 }
