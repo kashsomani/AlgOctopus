@@ -1,6 +1,6 @@
 <div class="navbar border-nav ">
   <div class="navbar-start">
-    <div class="dropdown hidden">
+    <div class="dropdown">
       <label tabindex="0" class="btn btn-ghost btn-circle">
         <svg
           xmlns="http://www.w3.org/2000/svg"
