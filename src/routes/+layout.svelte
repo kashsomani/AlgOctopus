@@ -1,24 +1,18 @@
 <script>
-  import Header from "./Header.svelte"
+  import Navbar from "./Navbar.svelte"
+  import TempFooter from "./TempFooter.svelte"
   import "./styles.css"
   import "../tailwind.css"
 </script>
 
 <div class="app">
-  <!-- <Header />
+  <Navbar />
 
   <main>
     <slot />
   </main>
 
-  <footer>
-    <p>
-      visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit
-    </p>
-  </footer> -->
-  <div class="grid grid-cols-1 place-items-center h-screen text-black">
-    The Site is under development :)
-  </div>
+  <TempFooter />
 </div>
 
 <style lang="postcss">
@@ -37,23 +31,5 @@
     max-width: 64rem;
     margin: 0 auto;
     box-sizing: border-box;
-  }
-
-  footer {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 12px;
-  }
-
-  footer a {
-    font-weight: bold;
-  }
-
-  @media (min-width: 480px) {
-    footer {
-      padding: 12px 0;
-    }
   }
 </style>
