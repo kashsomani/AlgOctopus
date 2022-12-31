@@ -9,21 +9,8 @@
     </div>
   </div>
 </div>
-<div class="fixed inset-0 -z-10">
-  <div class="grid grid-cols-1 place-items-center h-full ">
-    <div
-      class="my-auto mb-30 font-bold coming-soon text-secondary"
-    >
-      COMING SOON
-    </div>
-  </div>
-</div>
 
 <style>
-  .coming-soon {
-    font-size: 100px;
-    text-shadow: 5px 5px 2px rgba(71, 174, 178, 1);
-  }
   .container {
     width: 100vw;
     height: 30vh;
