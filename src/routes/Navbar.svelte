@@ -24,7 +24,7 @@
         <li><a href="/">About</a></li>
         <li><a href="/">Roadmap</a></li>
         <li><a href="/tokenomics">Tokenomics</a></li>
-        <li><a href="/">Team</a></li>
+        <li><a href="/team">Team</a></li>
         <li><a href="/">Contact</a></li>
       </ul>
     </div>
