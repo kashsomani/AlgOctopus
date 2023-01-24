@@ -7,6 +7,7 @@
       <div class="blush" />
       <div class="mouth" />
     </div>
+    &nbsp;
   </div>
 </div>
 
