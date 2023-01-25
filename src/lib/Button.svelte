@@ -2,8 +2,7 @@
   <button
     class="button"
     on:click={() =>
-      (location.href =
-        "https://www.nftexplorer.app/sellers/algoctopus")}
+      (location.href = "https://www.nftexplorer.app/sellers/algoctopus")}
     >Buy An AlgOctopus</button
   >
 </div>
@@ -25,11 +24,7 @@
     font-weight: 700;
     color: #313133;
     background: var(--blue);
-    background: linear-gradient(
-      90deg,
-      var(--blue) 0%,
-      var(--blue) 100%
-    );
+    background: linear-gradient(90deg, var(--blue) 0%, var(--blue) 100%);
     border: none;
     border-radius: 1000px;
     box-shadow: 4px 8px 16px var(--blue);
@@ -58,11 +53,7 @@
   .button:hover,
   .button:focus {
     color: #313133;
-    background: linear-gradient(
-      90deg,
-      var(--pink) 0%,
-      var(--pink) 100%
-    );
+    background: linear-gradient(90deg, var(--pink) 0%, var(--pink) 100%);
     box-shadow: 4px 8px 16px var(--pink);
     transform: translateY(-6px);
   }
@@ -83,7 +74,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    animation: ring 1.5s infinite;
+    animation: ring 1500ms infinite;
   }
 
   button:hover::after,
