@@ -9,7 +9,7 @@
 >
   <figure>
     <img
-      src="algo-image.png"
+      src="algo_new.png"
       alt="Album"
       class="w-full h-full rounded-2xl m-0 p-0"
     />
