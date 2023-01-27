@@ -27,7 +27,7 @@
         <li><a href="/">Roadmap</a></li>
         <li><a href="/tokenomics">Tokenomics</a></li>
         <li><a href="/team">Team</a></li>
-        <li><a href="/">Contact</a></li>
+        <li><a href="/">Contact </a></li>
       </ul>
     </div>
   </div>
@@ -45,6 +45,7 @@
   </div>
   <div class="navbar-end" />
 </div>
+&nbsp;
 
 <style>
   .navbar {
