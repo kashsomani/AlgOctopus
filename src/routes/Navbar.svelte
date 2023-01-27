@@ -1,6 +1,7 @@
 <div class="navbar border-nav ">
   <div class="navbar-start">
     <div class="dropdown">
+      <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
       <label tabindex="0" class="btn btn-ghost btn-circle">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -16,12 +17,13 @@
           /></svg
         >
       </label>
+      <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
       <ul
         tabindex="0"
         class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-secondary rounded-box w-52 text-black"
       >
         <li><a href="/">Home</a></li>
-        <li><a href="/">About</a></li>
+        <li><a href="/about">About</a></li>
         <li><a href="/">Roadmap</a></li>
         <li><a href="/tokenomics">Tokenomics</a></li>
         <li><a href="/team">Team</a></li>

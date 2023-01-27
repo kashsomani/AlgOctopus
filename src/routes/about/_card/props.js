@@ -1,5 +1,6 @@
 export const props = [
   {
+    image: "card_1.png",
     title: "I",
     points: [
       "COMMON",
@@ -8,6 +9,7 @@ export const props = [
     ],
   },
   {
+    image: "card_2.png",
     title: "II",
     points: [
       "RARE",
@@ -16,6 +18,7 @@ export const props = [
     ],
   },
   {
+    image: "card_3.png",
     title: "III",
     points: [
       "LEGENDARY",

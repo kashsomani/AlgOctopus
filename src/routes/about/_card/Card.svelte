@@ -9,7 +9,7 @@
 >
   <figure>
     <img
-      src="algo_new.png"
+      src={prop.image}
       alt="Album"
       class="w-full h-full rounded-2xl m-0 p-0"
     />
@@ -29,5 +29,9 @@
 <style>
   .round {
     border-radius: 75px;
+  }
+  #card {
+    border-bottom: 4px solid #5ce1e6;
+    box-shadow: 10px 0 10px -2px #5ce1e6;
   }
 </style>
