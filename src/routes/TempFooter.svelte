@@ -3,7 +3,10 @@
   id="footer"
 >
   <div class="items-center grid-flow-col">
-    <p>Copyright © 2022 - All right reserved</p>
+    <p>
+      Copyright © 2023 - All right reserved - Kash Somani,
+      Calvin D'souza
+    </p>
   </div>
   <div
     class="grid-flow-col gap-4 md:place-self-center md:justify-self-end"

@@ -4,9 +4,7 @@
   >
     $BLOP
   </h1>
-  <div
-    class="grid card bg-base-300 rounded-box place-items-center p-4 text-kustify"
-  >
+  <div class="common">
     <h3>What is $BLOP?</h3>
     <p>
       $BLOP is the community token of the AlgOctopus NFT
@@ -14,9 +12,7 @@
     </p>
   </div>
   <div class="divider" />
-  <div
-    class="grid card bg-base-300 rounded-box place-items-center p-4 text-kustify"
-  >
+  <div class="common">
     <h3>How Do I Earn $BLOP?</h3>
     <p>
       To earn $BLOP, the wallet that is opted-in to $BLOP
@@ -25,9 +21,7 @@
     </p>
   </div>
   <div class="divider" />
-  <div
-    class="grid card bg-base-300 rounded-box place-items-center p-4 text-kustify"
-  >
+  <div class="common">
     <h3>What Can I Use $BLOP For?</h3>
     <p>
       Currently the only use case for $BLOP is raffles.
@@ -36,9 +30,7 @@
     </p>
   </div>
   <div class="divider" />
-  <div
-    class="grid card bg-base-300 rounded-box place-items-center p-4 text-kustify"
-  >
+  <div class="common">
     <h3>Are There Other Ways To Earn $BLOP?</h3>
     <p>
       There are many ways to earn $BLOP other than daily
@@ -51,9 +43,7 @@
     </p>
   </div>
   <div class="divider" />
-  <div
-    class="grid card bg-base-300 rounded-box place-items-center p-4 text-kustify"
-  >
+  <div class="common">
     <h3>How Much $BLOP Will I Earn Daily?</h3>
     <p>
       For each different Type of AlgOctopus you hold, you
@@ -62,3 +52,9 @@
     insert type graphic below
   </div>
 </div>
+
+<style lang="postcss">
+  .common {
+    @apply grid card bg-base-300 rounded-box place-items-center p-4 text-justify;
+  }
+</style>
