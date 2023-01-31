@@ -1,5 +1,5 @@
 <script>
-  import teams from "./_team/Teams.svelte";
+  import Teams from "./_team/Teams.svelte"
 </script>
 
 <Teams />
