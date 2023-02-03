@@ -15,7 +15,7 @@
   {#each props as prop, index}
     {#if visible}
       <div
-        transition:fly={{
+        in:fly={{
           y: 200,
           duration: 1000 + 700 * index,
         }}
