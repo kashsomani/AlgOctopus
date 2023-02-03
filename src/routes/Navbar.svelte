@@ -24,7 +24,7 @@
       >
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
-        <li><a href="/">Roadmap</a></li>
+        <li><a href="/roadmap">Roadmap</a></li>
         <li><a href="/tokenomics">Tokenomics</a></li>
         <li><a href="/team">Team</a></li>
         <li><a href="/">Contact </a></li>
@@ -32,15 +32,8 @@
     </div>
   </div>
   <div class="navbar-center">
-    <a
-      href="/"
-      class="btn btn-ghost text-xl text-primary"
-      id="navbar-title"
-      ><img
-        src="algoctopus.png"
-        alt="logo"
-        class="w-44"
-      /></a
+    <a href="/" class="btn btn-ghost text-xl text-primary" id="navbar-title"
+      ><img src="algoctopus.png" alt="logo" class="w-44" /></a
     >
   </div>
   <div class="navbar-end" />
